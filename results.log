@@ -1,0 +1,354 @@
+2024-11-06 20:11:43 - Set Vicharak Theme: [0;32m✓[0m Passed
+2024-11-06 20:11:45 - HDMI_0: [0;32m✓[0m Passed
+2024-11-06 20:26:28 -  EMMC: [0;31m✗[0m Failed
+2024-11-06 20:26:55 - Ethernet: [0;32m✓[0m Passed
+2024-11-06 20:36:04 - EMMC: [0;32m✓[0m Passed
+2024-11-07 11:57:06 - Speaker: [0;32m✓[0m Passed
+2024-11-07 11:59:02 - Speaker: [0;32m✓[0m Passed
+2023-11-22 02:33:11 - SD-Card: [0;32m✓[0m Passed
+2023-11-22 02:27:48 - MIPI_DPHY-RX0_CSI0-RX2: [0;32m✓[0m Passed
+2023-11-22 02:27:35 -  MIPI_DPHY-RX0: [0;31m✗[0m Failed
+2023-11-22 02:27:56 -  MIPI_DPHY-RX0: [0;31m✗[0m Failed
+2024-11-07 15:18:12 -  MIPI_DPHY-RX0: [0;31m✗[0m Failed
+2024-11-07 15:18:31 -  MIPI_CSI0-RX2: [0;31m✗[0m Failed
+2024-11-07 15:18:59 - MIPI_DPHY-RX0_CSI0-RX2: [0;32m✓[0m Passed
+2023-11-22 02:32:03 - MIPI_DPHY-RX0: [0;32m✓[0m Passed
+2023-11-22 02:32:06 - MIPI_CSI0-RX2: [0;32m✓[0m Passed
+2023-11-22 02:32:19 - MIPI_CSI0-RX2: [0;32m✓[0m Passed
+2023-11-22 02:32:25 - MIPI_DPHY-RX0: [0;32m✓[0m Passed
+2024-11-07 15:21:24 -  MIPI_DPHY-RX0: [0;31m✗[0m Failed
+2024-11-07 15:21:27 - MIPI_DPHY-RX0: [0;32m✓[0m Passed
+2024-11-07 15:21:30 - MIPI_CSI0-RX2: [0;32m✓[0m Passed
+2024-11-07 15:21:34 - MIPI_CSI0-RX2: [0;32m✓[0m Passed
+2024-11-07 15:22:58 - MIPI_DPHY-RX1: [0;32m✓[0m Passed
+2024-11-07 15:23:03 - MIPI_CSI1-RX5: [0;32m✓[0m Passed
+2024-11-07 15:23:10 - MIPI_CSI1-RX5: [0;32m✓[0m Passed
+2024-11-07 15:35:28 - Set Vicharak Theme: [0;32m✓[0m Passed
+2024-11-07 15:35:40 - HDMI_1: [0;32m✓[0m Passed
+2023-11-22 02:47:24 - HDMI_RX: [0;32m✓[0m Passed
+2024-11-08 14:08:57 - SATA: [0;32m✓[0m Passed
+2024-11-08 14:09:23 -  TYPE_C_DP1: [0;31m✗[0m Failed
+2024-11-08 14:09:31 - Bluetooth: [0;32m✓[0m Passed
+2024-11-08 14:10:08 - Remove fdtoverlays: [0;32m✓[0m Passed
+2024-11-08 17:20:16 - MIPI_DPHY-RX0_CSI0-RX2: [0;32m✓[0m Passed
+2023-11-22 02:28:22 - MIPI_DPHY-RX0_CSI0-RX2: [0;32m✓[0m Passed
+2024-11-08 17:24:22 - Set Overlays: [0;32m✓[0m Passed
+2024-11-08 17:25:50 - MIPI_DPHY-RX0_CSI0-RX2: [0;32m✓[0m Passed
+2024-11-08 17:25:57 - Remove fdtoverlays: [0;32m✓[0m Passed
+2024-11-08 17:26:00 - MIPI_DPHY-RX1_CSI1-RX5: [0;32m✓[0m Passed
+2023-11-22 02:31:34 -  MIPI_DPHY-RX0: [0;31m✗[0m Failed
+2023-11-22 02:31:38 -  MIPI_DPHY-RX1: [0;31m✗[0m Failed
+2023-11-22 02:31:42 - MIPI_CSI1-RX5: [0;32m✓[0m Passed
+2024-11-08 17:28:18 - Remove fdtoverlays: [0;32m✓[0m Passed
+2024-11-08 17:28:55 - MIPI_DPHY-TX0_CSI0-RX1: [0;32m✓[0m Passed
+2024-11-08 17:28:58 - Remove fdtoverlays: [0;32m✓[0m Passed
+2024-11-08 17:29:05 - MIPI_DPHY-TX1_CSI1-RX4: [0;32m✓[0m Passed
+2023-11-22 02:35:09 -  MIPI_CSI1-RX4: [0;31m✗[0m Failed
+2024-11-08 17:30:52 -  MIPI_CSI0-RX1: [0;31m✗[0m Failed
+2024-11-08 17:30:57 - Remove fdtoverlays: [0;32m✓[0m Passed
+2024-11-08 17:31:22 - Remove fdtoverlays: [0;32m✓[0m Passed
+2023-11-22 02:28:19 - MIPI_DPHY-TX1_CSI1-RX4: [0;32m✓[0m Passed
+2023-11-22 02:29:35 - MIPI_CSI1-RX4: [0;32m✓[0m Passed
+2023-11-22 02:29:53 - Remove fdtoverlays: [0;32m✓[0m Passed
+2024-11-08 17:37:24 - MIPI_DPHY-RX0_CSI0-RX2: [0;32m✓[0m Passed
+2023-11-22 02:28:11 -  MIPI_DPHY-RX0: [0;31m✗[0m Failed
+2024-11-08 17:40:02 -  MIPI_DPHY-RX0: [0;31m✗[0m Failed
+2024-11-08 17:40:30 -  MIPI_DPHY-RX0: [0;31m✗[0m Failed
+2024-11-08 17:41:52 - Remove fdtoverlays: [0;32m✓[0m Passed
+2024-11-08 17:41:57 - MIPI_DPHY-RX1_CSI1-RX5: [0;32m✓[0m Passed
+2024-11-08 17:44:17 - MIPI_DPHY-RX1: [0;32m✓[0m Passed
+2024-11-08 17:44:20 - MIPI_DPHY-RX1: [0;32m✓[0m Passed
+2024-11-08 17:44:23 - MIPI_DPHY-RX1: [0;32m✓[0m Passed
+2024-11-08 17:44:26 - MIPI_DPHY-RX1: [0;32m✓[0m Passed
+2024-11-08 17:44:29 - MIPI_DPHY-RX1: [0;32m✓[0m Passed
+2024-11-08 17:44:31 - MIPI_DPHY-RX1: [0;32m✓[0m Passed
+2024-11-08 17:44:34 - MIPI_DPHY-RX1: [0;32m✓[0m Passed
+2024-11-08 17:44:37 - MIPI_DPHY-RX1: [0;32m✓[0m Passed
+2024-11-08 17:44:40 - MIPI_DPHY-RX1: [0;32m✓[0m Passed
+2024-11-08 17:44:42 - MIPI_DPHY-RX1: [0;32m✓[0m Passed
+2024-11-08 17:44:44 - MIPI_DPHY-RX1: [0;32m✓[0m Passed
+2024-11-08 17:44:46 - MIPI_DPHY-RX1: [0;32m✓[0m Passed
+2024-11-08 17:44:48 - MIPI_DPHY-RX1: [0;32m✓[0m Passed
+2024-11-08 17:44:50 - MIPI_DPHY-RX1: [0;32m✓[0m Passed
+2024-11-08 17:44:52 - MIPI_DPHY-RX1: [0;32m✓[0m Passed
+2024-11-08 17:44:54 - MIPI_DPHY-RX1: [0;32m✓[0m Passed
+2024-11-08 17:44:55 - MIPI_DPHY-RX1: [0;32m✓[0m Passed
+2024-11-08 17:46:06 - Remove fdtoverlays: [0;32m✓[0m Passed
+2024-11-09 08:57:33 -  Recovery Key: [0;31m✗[0m Failed
+2024-11-09 08:57:48 -  Recovery Key: [0;31m✗[0m Failed
+2024-11-09 08:58:04 -  Recovery Key: [0;31m✗[0m Failed
+2024-11-09 08:58:19 -  Recovery Key: [0;31m✗[0m Failed
+2024-11-09 08:58:32 -  Recovery Key: [0;31m✗[0m Failed
+2023-11-22 02:27:52 -  Recovery Key: [0;31m✗[0m Failed
+2023-11-22 02:27:59 - Recovery Key: [0;32m✓[0m Passed
+2023-11-22 02:29:16 - MIPI_DPHY-TX0_CSI0-RX1: [0;32m✓[0m Passed
+2023-11-22 02:32:14 - Remove fdtoverlays: [0;32m✓[0m Passed
+2023-11-22 02:32:21 - MIPI_DPHY-TX0_CSI0-RX1: [0;32m✓[0m Passed
+2023-11-22 02:32:55 -  MIPI_DPHY-TX0_CSI0-RX1: [0;31m✗[0m Failed
+2023-11-22 02:35:15 -  MIPI_CSI0-RX1: [0;31m✗[0m Failed
+2023-11-22 02:35:19 -  MIPI_CSI0-RX1: [0;31m✗[0m Failed
+2023-11-22 02:35:22 -  MIPI_CSI0-RX1: [0;31m✗[0m Failed
+2023-11-22 02:37:07 - Remove fdtoverlays: [0;32m✓[0m Passed
+2023-11-22 02:37:15 - MIPI_DPHY-RX0_CSI0-RX2: [0;32m✓[0m Passed
+2023-11-22 02:38:11 -  MIPI_DPHY-RX0: [0;31m✗[0m Failed
+2023-11-22 02:27:54 -  MIPI_DPHY-RX0: [0;31m✗[0m Failed
+2023-11-22 02:28:01 -  MIPI_DPHY-RX0: [0;31m✗[0m Failed
+2023-11-22 02:28:03 -  MIPI_DPHY-RX0: [0;31m✗[0m Failed
+2023-11-22 02:28:08 -  MIPI_CSI0-RX2: [0;31m✗[0m Failed
+2023-11-22 02:28:11 -  MIPI_CSI0-RX2: [0;31m✗[0m Failed
+2023-11-22 02:28:20 -  MIPI_CSI0-RX2: [0;31m✗[0m Failed
+2023-11-22 02:29:02 - Remove fdtoverlays: [0;32m✓[0m Passed
+2023-11-22 02:29:19 - MIPI_DPHY-TX0_CSI0-RX1: [0;32m✓[0m Passed
+2023-11-22 02:31:04 - MIPI_DPHY_TX0: [0;32m✓[0m Passed
+2023-11-22 02:31:07 -  MIPI_CSI0-RX1: [0;31m✗[0m Failed
+2023-11-22 02:28:20 - MIPI_DPHY_TX0: [0;32m✓[0m Passed
+2023-11-22 02:28:24 - MIPI_CSI0-RX1: [0;32m✓[0m Passed
+2023-11-22 02:28:47 - MIPI_CSI0-RX1: [0;32m✓[0m Passed
+2023-11-22 02:30:21 - Remove fdtoverlays: [0;32m✓[0m Passed
+2023-11-22 02:30:28 - MIPI_DPHY-TX1_CSI1-RX4: [0;32m✓[0m Passed
+2023-11-22 02:27:58 - MIPI_CSI1-RX4: [0;32m✓[0m Passed
+2023-11-22 02:28:04 - Remove fdtoverlays: [0;32m✓[0m Passed
+2023-11-22 02:27:54 - Remove fdtoverlays: [0;32m✓[0m Passed
+2023-11-22 02:28:05 - MIPI_DPHY-TX0_CSI0-RX1: [0;32m✓[0m Passed
+2023-11-22 02:29:08 -  MIPI_CSI0-RX1: [0;31m✗[0m Failed
+2023-11-22 02:29:53 - Remove fdtoverlays: [0;32m✓[0m Passed
+2023-11-22 02:29:59 - MIPI_DPHY-RX0_CSI0-RX2: [0;32m✓[0m Passed
+2023-11-22 02:31:19 -  MIPI_CSI0-RX2: [0;31m✗[0m Failed
+2023-11-22 02:29:11 -  MIPI_CSI0-RX2: [0;31m✗[0m Failed
+2023-11-22 02:29:25 -  MIPI_DPHY-RX0: [0;31m✗[0m Failed
+2023-11-22 02:29:27 -  MIPI_DPHY-RX0: [0;31m✗[0m Failed
+2023-11-22 02:29:30 -  MIPI_CSI0-RX2: [0;31m✗[0m Failed
+2023-11-22 02:29:33 -  MIPI_DPHY-RX1: [0;31m✗[0m Failed
+2023-11-22 02:29:35 -  MIPI_DPHY-RX0: [0;31m✗[0m Failed
+2023-11-22 02:29:39 -  HDMI_RX: [0;31m✗[0m Failed
+2023-11-22 02:29:43 -  MIPI_DPHY-RX0: [0;31m✗[0m Failed
+2023-11-22 02:29:52 -  MIPI_DPHY-RX0: [0;31m✗[0m Failed
+2023-11-22 02:29:56 -  MIPI_CSI0-RX2: [0;31m✗[0m Failed
+2023-11-22 02:30:25 - Remove fdtoverlays: [0;32m✓[0m Passed
+2023-11-22 02:30:35 - MIPI_DPHY-TX0_CSI0-RX1: [0;32m✓[0m Passed
+2023-11-22 02:31:20 -  MIPI_CSI0-RX1: [0;31m✗[0m Failed
+2023-11-22 02:31:23 -  MIPI_CSI0-RX1: [0;31m✗[0m Failed
+2023-11-22 02:29:18 - MIPI_DPHY-TX0_CSI0-RX1: [0;32m✓[0m Passed
+2023-11-22 02:30:36 - MIPI_CSI0-RX1: [0;32m✓[0m Passed
+2023-11-22 02:28:00 -  MIPI_DPHY-TX0_CSI0-RX1: [0;31m✗[0m Failed
+2023-11-22 02:28:04 - Remove fdtoverlays: [0;32m✓[0m Passed
+2023-11-22 02:28:13 - MIPI_DPHY-TX0_CSI0-RX1: [0;32m✓[0m Passed
+2023-11-22 02:28:13 - MIPI_DPHY-RX0_CSI0-RX2: [0;32m✓[0m Passed
+2023-11-22 02:28:16 -  MIPI_DPHY-RX0: [0;31m✗[0m Failed
+2023-11-22 02:28:21 -  MIPI_CSI0-RX2: [0;31m✗[0m Failed
+2023-11-22 02:29:14 -  MIPI_DPHY-RX0: [0;31m✗[0m Failed
+2023-11-22 02:29:16 -  MIPI_CSI0-RX2: [0;31m✗[0m Failed
+2023-11-22 02:31:10 -  MIPI_CSI0-RX2: [0;31m✗[0m Failed
+2023-11-22 02:31:13 -  MIPI_DPHY-RX0: [0;31m✗[0m Failed
+2023-11-22 02:28:03 - MIPI_DPHY-RX0_CSI0-RX2: [0;32m✓[0m Passed
+2023-11-22 02:29:22 - MIPI_DPHY-RX0: [0;32m✓[0m Passed
+2023-11-22 02:29:23 -  MIPI_CSI0-RX2: [0;31m✗[0m Failed
+2023-11-22 02:29:44 - Remove fdtoverlays: [0;32m✓[0m Passed
+2023-11-22 02:29:44 - Remove fdtoverlays: [0;32m✓[0m Passed
+2023-11-22 02:29:48 - MIPI_DPHY-RX1_CSI1-RX5: [0;32m✓[0m Passed
+2023-11-22 02:28:15 - MIPI_DPHY-RX1: [0;32m✓[0m Passed
+2023-11-22 02:28:17 -  MIPI_CSI1-RX5: [0;31m✗[0m Failed
+2023-11-22 02:27:47 - MIPI_DPHY-RX0_CSI0-RX2: [0;32m✓[0m Passed
+2023-11-22 02:28:41 - SD-Card: [0;32m✓[0m Passed
+2023-11-22 02:28:08 -  MIPI_DPHY-TX0_CSI0-RX1: [0;31m✗[0m Failed
+2023-11-22 02:28:15 - Remove fdtoverlays: [0;32m✓[0m Passed
+2023-11-22 02:28:18 - Remove fdtoverlays: [0;32m✓[0m Passed
+2023-11-22 02:28:20 - Remove fdtoverlays: [0;32m✓[0m Passed
+2023-11-22 02:28:21 - Remove fdtoverlays: [0;32m✓[0m Passed
+2023-11-22 02:28:22 - Remove fdtoverlays: [0;32m✓[0m Passed
+2023-11-22 02:28:23 - Remove fdtoverlays: [0;32m✓[0m Passed
+2023-11-22 02:28:24 - Remove fdtoverlays: [0;32m✓[0m Passed
+2023-11-22 02:28:25 - Remove fdtoverlays: [0;32m✓[0m Passed
+2023-11-22 02:28:26 - Remove fdtoverlays: [0;32m✓[0m Passed
+2023-11-22 02:28:26 - Remove fdtoverlays: [0;32m✓[0m Passed
+2023-11-22 02:28:27 - Remove fdtoverlays: [0;32m✓[0m Passed
+2023-11-22 02:28:28 - Remove fdtoverlays: [0;32m✓[0m Passed
+2023-11-22 02:28:35 - MIPI_DPHY-TX0_CSI0-RX1: [0;32m✓[0m Passed
+2023-11-22 02:29:36 -  MIPI_CSI0-RX1: [0;31m✗[0m Failed
+2023-11-22 02:27:47 -  MIPI_CSI0-RX1: [0;31m✗[0m Failed
+2023-11-22 02:30:26 - Remove fdtoverlays: [0;32m✓[0m Passed
+2023-11-22 02:30:27 - Remove fdtoverlays: [0;32m✓[0m Passed
+2023-11-22 02:30:28 - Remove fdtoverlays: [0;32m✓[0m Passed
+2023-11-22 02:30:29 - Remove fdtoverlays: [0;32m✓[0m Passed
+2023-11-22 02:30:29 - Remove fdtoverlays: [0;32m✓[0m Passed
+2023-11-22 02:30:30 - Remove fdtoverlays: [0;32m✓[0m Passed
+2023-11-22 02:27:49 - MIPI_DPHY-TX0_CSI0-RX1: [0;32m✓[0m Passed
+2023-11-22 02:29:26 - MIPI_CSI0-RX1: [0;32m✓[0m Passed
+2023-11-22 02:29:35 - MIPI_CSI0-RX1: [0;32m✓[0m Passed
+2024-11-09 13:01:05 - MIPI_CSI0-RX1: [0;32m✓[0m Passed
+2024-11-09 14:17:24 - MIPI_DPHY-RX0_CSI0-RX2: [0;32m✓[0m Passed
+2024-11-09 14:20:29 -  MIPI_DPHY-RX0: [0;31m✗[0m Failed
+2024-11-09 14:20:51 - Set Overlays: [0;32m✓[0m Passed
+2024-11-09 14:21:02 - MIPI_DPHY-RX0_CSI0-RX2: [0;32m✓[0m Passed
+2023-11-22 02:36:18 -  MIPI_DPHY-RX0: [0;31m✗[0m Failed
+2024-11-09 14:24:23 -  MIPI_DPHY-RX0: [0;31m✗[0m Failed
+2024-11-09 14:24:25 -  MIPI_CSI0-RX2: [0;31m✗[0m Failed
+2024-11-09 14:24:30 -  MIPI_CSI0-RX2: [0;31m✗[0m Failed
+2024-11-09 14:24:54 -  MIPI_DPHY-RX0: [0;31m✗[0m Failed
+2023-11-22 02:27:39 -  MIPI_DPHY-RX0: [0;31m✗[0m Failed
+2023-11-22 02:27:43 - MIPI_DPHY-RX0_CSI0-RX2: [0;32m✓[0m Passed
+2023-11-22 02:27:51 - MIPI_DPHY-RX0_CSI0-RX2: [0;32m✓[0m Passed
+2023-11-22 02:27:59 - Remove fdtoverlays: [0;32m✓[0m Passed
+2023-11-22 02:28:03 - MIPI_DPHY-RX0_CSI0-RX2: [0;32m✓[0m Passed
+2023-11-22 02:28:48 -  MIPI_DPHY-RX0: [0;31m✗[0m Failed
+2023-11-22 02:28:51 -  MIPI_CSI0-RX2: [0;31m✗[0m Failed
+2023-11-22 02:27:40 -  MIPI_DPHY-RX0: [0;31m✗[0m Failed
+2023-11-22 02:27:44 - MIPI_CSI0-RX2: [0;32m✓[0m Passed
+2023-11-22 02:27:47 - MIPI_CSI0-RX2: [0;32m✓[0m Passed
+2023-11-22 02:27:49 - MIPI_CSI0-RX2: [0;32m✓[0m Passed
+2023-11-22 02:27:52 - MIPI_CSI0-RX2: [0;32m✓[0m Passed
+2023-11-22 02:27:54 - MIPI_CSI0-RX2: [0;32m✓[0m Passed
+2023-11-22 02:27:57 -  MIPI_DPHY-RX0: [0;31m✗[0m Failed
+2023-11-22 02:28:52 - SD-Card: [0;32m✓[0m Passed
+2024-11-11 09:07:15 - Microphone: [0;32m✓[0m Passed
+2024-11-11 09:07:45 - Speaker: [0;32m✓[0m Passed
+2024-11-11 09:08:34 - Speaker: [0;32m✓[0m Passed
+2024-11-11 09:09:27 - Microphone: [0;32m✓[0m Passed
+2024-11-11 09:09:58 - Speaker: [0;32m✓[0m Passed
+2024-11-11 09:10:53 - Microphone: [0;32m✓[0m Passed
+2024-11-11 09:11:30 - Speaker: [0;32m✓[0m Passed
+2024-11-11 09:12:20 - Speaker: [0;32m✓[0m Passed
+2024-11-11 09:13:06 - Speaker: [0;32m✓[0m Passed
+2023-11-22 02:28:11 - Speaker: [0;32m✓[0m Passed
+2024-11-11 09:15:54 - Microphone: [0;32m✓[0m Passed
+2023-11-22 02:28:30 - SATA: [0;32m✓[0m Passed
+2023-11-22 02:28:12 - MIPI_DPHY-RX0_CSI0-RX2: [0;32m✓[0m Passed
+2023-11-22 02:28:26 - MIPI_DPHY-RX0: [0;32m✓[0m Passed
+2023-11-22 02:28:32 - MIPI_CSI0-RX2: [0;32m✓[0m Passed
+2023-11-22 02:28:36 - Remove fdtoverlays: [0;32m✓[0m Passed
+2023-11-22 02:28:39 - Remove fdtoverlays: [0;32m✓[0m Passed
+2023-11-22 02:28:40 - Remove fdtoverlays: [0;32m✓[0m Passed
+2023-11-22 02:28:40 - Remove fdtoverlays: [0;32m✓[0m Passed
+2023-11-22 02:28:41 - Remove fdtoverlays: [0;32m✓[0m Passed
+2023-11-22 02:28:41 - Remove fdtoverlays: [0;32m✓[0m Passed
+2023-11-22 02:28:41 - Remove fdtoverlays: [0;32m✓[0m Passed
+2023-11-22 02:28:42 - Remove fdtoverlays: [0;32m✓[0m Passed
+2023-11-22 02:28:42 - Remove fdtoverlays: [0;32m✓[0m Passed
+2023-11-22 02:28:43 - Remove fdtoverlays: [0;32m✓[0m Passed
+2023-11-22 02:28:44 - Remove fdtoverlays: [0;32m✓[0m Passed
+2023-11-22 02:28:44 - Remove fdtoverlays: [0;32m✓[0m Passed
+2023-11-22 02:28:57 - MIPI_DPHY-RX1_CSI1-RX5: [0;32m✓[0m Passed
+2023-11-22 02:27:59 - MIPI_DPHY-RX1: [0;32m✓[0m Passed
+2023-11-22 02:28:04 - MIPI_CSI1-RX5: [0;32m✓[0m Passed
+2023-11-22 02:29:01 - Remove fdtoverlays: [0;32m✓[0m Passed
+2023-11-22 02:29:02 - Remove fdtoverlays: [0;32m✓[0m Passed
+2023-11-22 02:29:03 - Remove fdtoverlays: [0;32m✓[0m Passed
+2023-11-22 02:29:04 - Remove fdtoverlays: [0;32m✓[0m Passed
+2023-11-22 02:29:04 - Remove fdtoverlays: [0;32m✓[0m Passed
+2023-11-22 02:29:04 - Remove fdtoverlays: [0;32m✓[0m Passed
+2023-11-22 02:29:05 - Remove fdtoverlays: [0;32m✓[0m Passed
+2023-11-22 02:29:05 - Remove fdtoverlays: [0;32m✓[0m Passed
+2023-11-22 02:29:05 - Remove fdtoverlays: [0;32m✓[0m Passed
+2023-11-22 02:29:05 - Remove fdtoverlays: [0;32m✓[0m Passed
+2023-11-22 02:29:06 - Remove fdtoverlays: [0;32m✓[0m Passed
+2023-11-22 02:29:06 - Remove fdtoverlays: [0;32m✓[0m Passed
+2023-11-22 02:29:06 - Remove fdtoverlays: [0;32m✓[0m Passed
+2023-11-22 02:29:06 - Remove fdtoverlays: [0;32m✓[0m Passed
+2023-11-22 02:29:07 - Remove fdtoverlays: [0;32m✓[0m Passed
+2023-11-22 02:29:07 - Remove fdtoverlays: [0;32m✓[0m Passed
+2023-11-22 02:29:08 - Remove fdtoverlays: [0;32m✓[0m Passed
+2023-11-22 02:29:08 - Remove fdtoverlays: [0;32m✓[0m Passed
+2023-11-22 02:29:09 - Remove fdtoverlays: [0;32m✓[0m Passed
+2023-11-22 02:29:09 - Remove fdtoverlays: [0;32m✓[0m Passed
+2023-11-22 02:29:09 - Remove fdtoverlays: [0;32m✓[0m Passed
+2023-11-22 02:29:10 - Remove fdtoverlays: [0;32m✓[0m Passed
+2023-11-22 02:29:10 - Remove fdtoverlays: [0;32m✓[0m Passed
+2023-11-22 02:29:10 - Remove fdtoverlays: [0;32m✓[0m Passed
+2023-11-22 02:29:11 - Remove fdtoverlays: [0;32m✓[0m Passed
+2023-11-22 02:29:11 - Remove fdtoverlays: [0;32m✓[0m Passed
+2023-11-22 02:29:11 - Remove fdtoverlays: [0;32m✓[0m Passed
+2023-11-22 02:29:12 - Remove fdtoverlays: [0;32m✓[0m Passed
+2023-11-22 02:29:12 - Remove fdtoverlays: [0;32m✓[0m Passed
+2023-11-22 02:29:12 - Remove fdtoverlays: [0;32m✓[0m Passed
+2023-11-22 02:29:13 - Remove fdtoverlays: [0;32m✓[0m Passed
+2023-11-22 02:29:13 - Remove fdtoverlays: [0;32m✓[0m Passed
+2023-11-22 02:29:14 - Remove fdtoverlays: [0;32m✓[0m Passed
+2023-11-22 02:29:14 - Remove fdtoverlays: [0;32m✓[0m Passed
+2023-11-22 02:29:15 - Remove fdtoverlays: [0;32m✓[0m Passed
+2023-11-22 02:29:15 - Remove fdtoverlays: [0;32m✓[0m Passed
+2023-11-22 02:29:16 - Remove fdtoverlays: [0;32m✓[0m Passed
+2023-11-22 02:29:16 - Remove fdtoverlays: [0;32m✓[0m Passed
+2023-11-22 02:29:17 - Remove fdtoverlays: [0;32m✓[0m Passed
+2023-11-22 02:29:18 - Remove fdtoverlays: [0;32m✓[0m Passed
+2023-11-22 02:29:19 - Remove fdtoverlays: [0;32m✓[0m Passed
+2023-11-22 02:29:19 - Remove fdtoverlays: [0;32m✓[0m Passed
+2023-11-22 02:29:20 - Remove fdtoverlays: [0;32m✓[0m Passed
+2023-11-22 02:29:20 - Remove fdtoverlays: [0;32m✓[0m Passed
+2023-11-22 02:29:20 - Remove fdtoverlays: [0;32m✓[0m Passed
+2023-11-22 02:29:21 - Remove fdtoverlays: [0;32m✓[0m Passed
+2023-11-22 02:29:21 - Remove fdtoverlays: [0;32m✓[0m Passed
+2023-11-22 02:29:22 - Remove fdtoverlays: [0;32m✓[0m Passed
+2023-11-22 02:29:23 - Remove fdtoverlays: [0;32m✓[0m Passed
+2023-11-22 02:29:23 - Remove fdtoverlays: [0;32m✓[0m Passed
+2023-11-22 02:29:24 - Remove fdtoverlays: [0;32m✓[0m Passed
+2023-11-22 02:29:24 - Remove fdtoverlays: [0;32m✓[0m Passed
+2023-11-22 02:29:24 - Remove fdtoverlays: [0;32m✓[0m Passed
+2023-11-22 02:29:25 - Remove fdtoverlays: [0;32m✓[0m Passed
+2024-11-11 14:20:23 - RTC: [0;32m✓[0m Passed
+2024-11-11 15:52:48 - Set Vicharak Theme: [0;32m✓[0m Passed
+2024-11-12 09:32:01 - Speaker: [0;32m✓[0m Passed
+2024-11-12 09:32:43 - Microphone: [0;32m✓[0m Passed
+2024-11-12 11:53:29 - SD-Card: [0;32m✓[0m Passed
+2024-11-12 11:53:36 - HDMI_RX: [0;32m✓[0m Passed
+2024-11-12 11:56:04 - RTC: [0;32m✓[0m Passed
+2023-11-22 02:29:07 -  MIPI_DPHY-RX0_CSI0-RX2: [0;31m✗[0m Failed
+2023-11-22 02:29:20 -  MIPI_DPHY-RX0_CSI0-RX2: [0;31m✗[0m Failed
+2023-11-22 02:29:22 -  MIPI_DPHY-RX0_CSI0-RX2: [0;31m✗[0m Failed
+2023-11-22 02:29:22 -  MIPI_DPHY-RX0_CSI0-RX2: [0;31m✗[0m Failed
+2023-11-22 02:29:26 - Remove fdtoverlays: [0;32m✓[0m Passed
+2023-11-22 02:29:27 - Remove fdtoverlays: [0;32m✓[0m Passed
+2023-11-22 02:29:28 - Remove fdtoverlays: [0;32m✓[0m Passed
+2023-11-22 02:29:34 - MIPI_DPHY-RX0_CSI0-RX2: [0;32m✓[0m Passed
+2024-11-12 12:41:13 - Set Overlays: [0;32m✓[0m Passed
+2024-11-12 14:39:53 - MIPI_DPHY-RX0: [0;32m✓[0m Passed
+2024-11-12 14:40:07 -  MIPI_DPHY-RX0: [0;31m✗[0m Failed
+2024-11-12 14:40:17 - MIPI_DPHY-RX0: [0;32m✓[0m Passed
+2023-11-22 02:30:51 -  HDMI_RX: [0;31m✗[0m Failed
+2023-11-22 02:31:00 -  HDMI_RX: [0;31m✗[0m Failed
+2023-11-22 02:31:46 -  HDMI_RX: [0;31m✗[0m Failed
+2023-11-22 02:32:18 -  HDMI_RX: [0;31m✗[0m Failed
+2023-11-22 02:32:26 -  HDMI_RX: [0;31m✗[0m Failed
+2023-11-22 02:32:30 -  HDMI_RX: [0;31m✗[0m Failed
+2023-11-22 02:32:35 -  HDMI_RX: [0;31m✗[0m Failed
+2023-11-22 02:32:48 -  HDMI_RX: [0;31m✗[0m Failed
+2023-11-22 02:32:55 -  HDMI_RX: [0;31m✗[0m Failed
+2023-11-22 02:33:09 -  HDMI_RX: [0;31m✗[0m Failed
+2023-11-22 02:33:16 -  HDMI_RX: [0;31m✗[0m Failed
+2023-11-22 02:33:45 -  HDMI_RX: [0;31m✗[0m Failed
+2023-11-22 02:34:50 -  HDMI_RX: [0;31m✗[0m Failed
+2023-11-22 02:35:02 -  HDMI_RX: [0;31m✗[0m Failed
+2023-11-22 02:27:48 -  HDMI_RX: [0;31m✗[0m Failed
+2023-11-22 02:27:55 -  HDMI_RX: [0;31m✗[0m Failed
+2023-11-22 02:28:27 -  HDMI_RX: [0;31m✗[0m Failed
+2023-11-22 02:29:02 -  HDMI_RX: [0;31m✗[0m Failed
+2023-11-22 02:27:51 -  HDMI_RX: [0;31m✗[0m Failed
+2023-11-22 02:27:50 -  MIPI_DPHY-RX1: [0;31m✗[0m Failed
+2023-11-22 02:27:58 -  MIPI_DPHY-RX1: [0;31m✗[0m Failed
+2023-11-22 02:28:03 - MIPI_CSI1-RX5: [0;32m✓[0m Passed
+2023-11-22 02:28:39 - Remove fdtoverlays: [0;32m✓[0m Passed
+2023-11-22 02:28:50 - MIPI_DPHY-TX1_CSI1-RX4: [0;32m✓[0m Passed
+2023-11-22 02:28:23 -  MIPI_CSI0-RX1: [0;31m✗[0m Failed
+2023-11-22 02:28:42 - MIPI_CSI1-RX4: [0;32m✓[0m Passed
+2023-11-22 02:28:46 - Remove fdtoverlays: [0;32m✓[0m Passed
+2024-11-13 14:40:05 -  MIPI_DPHY_TX1: [0;31m✗[0m Failed
+2024-11-13 14:40:05 -  MIPI_CSI1_RX4: [0;31m✗[0m Failed
+2024-11-13 14:40:05 - rtc: [0;32m✓[0m Passed
+2024-11-13 14:40:05 -  HDMI_1: [0;31m✗[0m Failed
+2024-11-13 14:40:10 -  TYPE_C_DP1: [0;31m✗[0m Failed
+2024-11-13 14:40:10 - remove_overlays: [0;32m✓[0m Passed
+2024-11-13 14:40:10 - ON_INTERNET: [0;32m✓[0m Passed
+2024-11-13 14:40:13 -  GPIO_CHECK: [0;31m✗[0m Failed
+2024-11-13 14:40:19 -  SATA: [0;31m✗[0m Failed
+2024-11-13 14:48:03 - : [0;32m✓[0m Passed
+2024-11-13 15:09:44 - MIPI_DPHY_RX1: [0;32m✓[0m Passed
+2024-11-13 15:09:44 -  MIPI_CSI1_RX5: [0;31m✗[0m Failed
+2024-11-13 15:09:44 - remove_overlays: [0;32m✓[0m Passed
+2024-11-13 15:09:46 - MIPI_DPHY_TX0_CSI0_RX1: [0;32m✓[0m Passed
+2024-11-13 15:10:17 -  WiFi: [0;31m✗[0m Failed
+2024-11-13 15:10:54 -  WiFi: [0;31m✗[0m Failed
+2024-11-13 15:13:37 -  MIPI_DPHY_TX0: [0;31m✗[0m Failed
+2024-11-13 15:13:37 -  MIPI_CSI0_RX1: [0;31m✗[0m Failed
+2024-11-13 15:13:37 - remove_overlays: [0;32m✓[0m Passed
+2024-11-13 15:13:40 - MIPI_DPHY_TX1_CSI1_RX4: [0;32m✓[0m Passed
+2024-11-13 15:14:00 -  PCIe: [0;31m✗[0m Failed
+2024-11-13 15:14:15 - : [0;32m✓[0m Passed

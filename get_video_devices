@@ -1,0 +1,14 @@
+#!/usr/bin/bash
+
+media_devices_cnt=$(ls /dev/media* | wc -l)
+video_devices=()
+
+for mdev in $(seq 0 $((media_devices_cnt - 1))); do
+    video_dev=$(media-ctl -d /dev/media${mdev} -e rkisp_mainpath 2>/dev/null | grep -i video | awk '{print $NF}')
+    if [[ -n "$video_dev" ]]; then
+        video_devices+=("$video_dev")
+    fi
+done
+
+echo -e "${video_devices[@]}"
+

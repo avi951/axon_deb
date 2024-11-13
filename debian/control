@@ -1,0 +1,9 @@
+Source: axon-test
+Priority: optional
+Maintainer: Avi Shihora <avi.shihora.w23@gmail.com>
+Build-Depends: debhelper-compat  (= 13)
+	
+Package: axon-test
+Architecture: amd64
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Short description of your package. 

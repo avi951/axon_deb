@@ -1,0 +1,28 @@
+#!/usr/bin/make -f
+
+clean:
+	rm -rf axon-test 
+
+binary:
+	mkdir -m 755 -p debian/axon-test/etc/systemd/system
+	mkdir -m 755 -p debian/axon-test/usr/local/bin/
+	mkdir -m 755 -p debian/axon-test/opt
+	mkdir -m 755 -p debian/axon-test/DEBIAN
+	cp test-axon.service debian/axon-test/etc/systemd/system
+	cp auto-test.sh debian/axon-test/usr/local/bin
+	cp Jai\ Ho.mp3 debian/axon-test/opt
+	cp axon-test.sh debian/axon-test/opt
+	cp camera_csi_11.py debian/axon-test/opt
+	cp camera_csi_31.py debian/axon-test/opt
+	cp camera_dphy_22.py debian/axon-test/opt
+	cp v4l2grab debian/axon-test/opt
+	cp gpio_check.py debian/axon-test/opt
+	cp postinst debian/axon-test/DEBIAN
+	cp postrm debian/axon-test/DEBIAN
+	chmod -R 755 debian/axon-test/opt/axon-test.sh
+	dh_makeshlibs
+	dh_gencontrol
+	dh_builddeb
+
+%:
+	dh $@
