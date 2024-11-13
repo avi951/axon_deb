@@ -538,9 +538,9 @@ microphone(){
 	output_file="/home/vicharak/recorded_output.wav"
 	sleep 2
    
-    #	ffplay -nodisp -autoexit Jai\ Ho.mp3 &
+	#   ffplay -nodisp -autoexit Jai\ Ho.mp3 &
 	#   Record 5 seconds of audio from the default microphone
-    #	echo "Recording for 10 seconds..."
+	#   echo "Recording for 10 seconds..."
 	
 	## Check if the file was recorded
 	if [ ! -s "$output_file" ]; then
@@ -564,7 +564,7 @@ microphone(){
  	FRPLAY_PID=$!
 
 	# Wait for 15 seconds
-	sleep 15
+	sleep 12
 	
 	# Kill the ffplay process
 	sudo rm -rf $output_file

@@ -1,0 +1,7 @@
+Package: axon-test
+Version: 1.0-1
+Architecture: arm64
+Maintainer: Avi Shihora <avi.shihora.w23@gmail.com>
+Installed-Size: 13017
+Priority: optional
+Description: Axon Testing Script package.
