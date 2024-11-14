@@ -1,3 +1,5 @@
+#!/bin/bash
+
+#sudo apt install ./axon-overlays_1.0.0_arm64.deb
 sudo systemctl daemon-reload
 sudo systemctl enable test-axon.service
-sudo systemctl status test-axon.service

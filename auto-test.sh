@@ -11,7 +11,7 @@ fi
 #mate-terminal -x sh -c "echo $TEST_COUNT; bash"
 DISPLAY=:0 mate-terminal -x bash -c "
 	sleep 3; 
-	cd /test; 
+	cd /opt; 
 	status=$(cat "/opt/test_axon.txt")
 	echo -n 'By default running $TEST_COUNT, do you want to start from s0? [y/N]: ';
     var=\$(echo \"\$var\" | tr '[:upper:]' '[:lower:]') # Convert to lowercase

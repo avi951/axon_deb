@@ -4,5 +4,6 @@ Maintainer: Avi Shihora <avi.shihora.w23@gmail.com>
 Build-Depends: debhelper-compat (= 13)
 
 Package: axon-test
+Depends: axon-overlays (>= 1.0.0) 
 Architecture: any
 Description: Axon Testing Script package.

@@ -18,9 +18,9 @@ binary:
 	cp v4l2grab debian/axon-test/opt
 	cp gpio_check.py debian/axon-test/opt
 	cp postinst debian/axon-test/DEBIAN
-	cp postrm debian/axon-test/DEBIAN
+	cp prerm debian/axon-test/DEBIAN
 	chmod -R 755 debian/axon-test/DEBIAN/postinst
-	chmod -R 755 debian/axon-test/DEBIAN/postrm
+	chmod -R 755 debian/axon-test/DEBIAN/prerm
 	chmod -R 755 debian/axon-test/opt/axon-test.sh
 	dh_makeshlibs
 	dh_gencontrol

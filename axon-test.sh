@@ -1388,7 +1388,7 @@ install_package(){
 	sudo apt update > /dev/null
    	sudo pip install pyserial
    	sudo apt -y remove brltty > /dev/null
-    sudo apt -y install iozone3
+        sudo apt -y install iozone3
 	sudo pip install opencv-python
 }
 
